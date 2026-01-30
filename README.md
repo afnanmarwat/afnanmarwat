@@ -1,13 +1,14 @@
-<h1 align="center">Afnan </h1>
-<h3 align="center">Experienced Full-Stack Developer</h3>
+<h1 align="center">Afnan</h1>
+<h3 align="center">Full-Stack & DevOps Engineer</h3>
 
 <p align="center">
-  Building scalable, high-performance web applications with modern frontend frameworks,
-  robust backend systems, and cloud-native infrastructure.
+  I build and deploy scalable, high-performance web applications by combining modern frontend development,
+  robust backend engineering, and DevOps best practices. I focus on systems that are reliable in production,
+  easy to maintain, and designed to scale.
 </p>
 
 <p align="center">
-  <b>Clean Code</b> · <b>Scalable Systems</b> · <b>Production-Ready Apps</b>
+  <b>Clean Code</b> · <b>Scalable Architecture</b> · <b>Automated Infrastructure</b>
 </p>
 
 <hr/>
@@ -15,11 +16,13 @@
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-  <li>Full-Stack Developer with strong frontend and backend expertise</li>
-  <li>Experience building SaaS platforms and production-ready applications</li>
-  <li>Comfortable working across the entire stack, from UI to infrastructure</li>
-  <li>Focused on performance, scalability, and maintainable code</li>
+  <li>Full-Stack & DevOps Engineer with hands-on experience across frontend, backend, and infrastructure</li>
+  <li>Build, deploy, and maintain SaaS applications using cloud-native and containerized environments</li>
+  <li>Design REST and GraphQL APIs while ensuring performance, security, and reliability</li>
+  <li>Implement CI/CD pipelines, container orchestration, and cloud services for production-ready systems</li>
+  <li>Strong focus on scalability, observability, and long-term maintainability</li>
 </ul>
+
 
 <hr/>
 
